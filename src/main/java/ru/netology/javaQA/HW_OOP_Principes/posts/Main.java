@@ -1,5 +1,4 @@
-import ru.netology.javaQA.HW_OOP_Principes.posts.FormDate;
-import ru.netology.javaQA.HW_OOP_Principes.posts.Post;
+package ru.netology.javaQA.HW_OOP_Principes.posts;
 
 public class Main {
     public static void main(String[] args) {
